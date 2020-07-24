@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Reconcile</string>
+    <string name="nav_news">News</string>
+    <string name="nav_discuss">Discussion</string>
+    <string name="nav_events">Opportunities</string>
+    <string name="nav_connect">Connect</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
